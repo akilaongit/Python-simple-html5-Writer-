@@ -4,7 +4,7 @@ This is a simple programme i was wrote for write some basic html file (Support f
 <hr><br>
 
 <h3>Preview💻</h3>
-<video src="preview.mp4"><br>
+![MP4](preview.mp4)
   
 <h3>Setup🔨</h3>
 <ul>
